@@ -30,3 +30,9 @@ Touchless Fingerprint is an Android-based application designed to capture and re
 2. Follow the on-screen instructions to position your finger or thumb in front of the camera.
 3. Capture the fingerprint image.
 4. The application will process the image and extract fingerprints
+
+## DEMO
+
+![Take Photo](demo/img1.jpeg)
+
+![Extracted Fingerprint](demo/img2.jpeg)
