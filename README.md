@@ -12,7 +12,7 @@ Touchless Fingerprint is an Android-based application designed to capture and re
 ## Requirements
 
 - **Android Studio:** For running and building the application.
-- **Android Device:** Minimum API level 21 (Android 5.0 Lollipop) with a working camera.
+- **Android Device:** Minimum API level 24 (Android 7.0) with a working camera.
 
 ## Installation
 
