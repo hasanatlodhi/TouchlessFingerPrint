@@ -1,0 +1,50 @@
+{
+  "installationFolder": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/intermediates/prefab_package/release/prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "armeabi-v7a",
+            "abiApi": 26,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/armeabi-v7a/libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/armeabi-v7a/android_gradle_build.json"
+          },
+          {
+            "abiName": "arm64-v8a",
+            "abiApi": 26,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/arm64-v8a/libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/arm64-v8a/android_gradle_build.json"
+          },
+          {
+            "abiName": "x86",
+            "abiApi": 26,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/x86/libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/x86/android_gradle_build.json"
+          },
+          {
+            "abiName": "x86_64",
+            "abiApi": 26,
+            "abiNdkMajor": 26,
+            "abiStl": "c++_shared",
+            "abiLibrary": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/x86_64/libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/RelWithDebInfo/6v4a25r6/x86_64/android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}

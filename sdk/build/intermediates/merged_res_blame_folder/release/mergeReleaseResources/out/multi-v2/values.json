@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.sdk-mergeReleaseResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/java/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.opencv.sdk-release-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/java/res/values/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}

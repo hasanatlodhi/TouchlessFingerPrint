@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/hasanat/All_Data/project_umair_sir/New folder/sdk/.cxx/Debug/123h353u/x86'
+ninja: no work to do.

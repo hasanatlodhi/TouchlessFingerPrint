@@ -1,0 +1,6 @@
+Index-Finger
+Left-Hand
+Little-Finger
+Middle-Finger
+Right-Hand
+Ring-Finger

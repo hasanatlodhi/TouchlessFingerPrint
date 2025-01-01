@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@android:color/black">
+
+    <ImageView
+        android:id="@+id/back_button_recyclerView"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="start|top"
+        android:src="@drawable/ic_go_back"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scroll_text"
+        android:text="Scroll Down"
+        android:textColor="@color/dark_blue"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/finger_name"
+        android:text=""
+        android:textColor="@color/dark_blue"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp" />
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        app:cardElevation="4dp"
+        app:cardCornerRadius="8dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/image_item"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+        </FrameLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

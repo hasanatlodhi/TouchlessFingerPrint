@@ -1,0 +1,17 @@
+{
+  "installationFolder": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/intermediates/prefab_package/release/prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/home/hasanat/All_Data/project_umair_sir/New folder/sdk/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

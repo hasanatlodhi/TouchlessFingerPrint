@@ -1,0 +1,7 @@
+org.opencv.sdk-pngs-0 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/generated/res/pngs/release
+org.opencv.sdk-resValues-1 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/generated/res/resValues/release
+org.opencv.sdk-mergeReleaseResources-2 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv.sdk-mergeReleaseResources-3 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv.sdk-release-4 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/build/intermediates/merged_res/release/mergeReleaseResources
+org.opencv.sdk-java-5 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/java/res
+org.opencv.sdk-release-6 /home/hasanat/All_Data/project_umair_sir/New folder/sdk/src/release/res
